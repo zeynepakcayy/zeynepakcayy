@@ -31,8 +31,8 @@ Interested in building end-to-end data pipelines, designing structured databases
 - **Gym Management Database System**  
   Designed a normalized relational database schema and implemented SQL queries for data management, aggregation, and reporting.
 
-- **Data-Driven Web Applications**  
-  Developed simple web interfaces connected to structured datasets to visualize and explore processed data.
+- **Architecture Portfolio Website**  
+  Developed a responsive portfolio website using HTML, CSS, and JavaScript to showcase architectural projects with structured layouts and interactive elements.
 
 ---
 
