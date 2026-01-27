@@ -8,7 +8,7 @@ Interested in building end-to-end data pipelines, designing structured databases
 
 ## 🎓 Education
 - **B.Sc. in Computer Engineering** — Ankara University  
-- GPA: **3.38 / 4.00**  
+- GPA: **3.44 / 4.00**  
 - 3rd Year Student
 
 ---
